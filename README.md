@@ -1,17 +1,11 @@
 ## Hi, I'm [Marc Berger!](https://marcberger.dev) 👋
-<br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mberger75&label=Views&color=ff69b4&style=plastic" alt="mberger75" /></p>
 
-<a href="https://twitter.com/marcbrgr">
-  <img align="left" alt="marc's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/mberger75">
-  <img align="left" alt="marc's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mberger75">
-  <img align="left" alt="marc's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
+[![Twitter: marcbrgr](https://img.shields.io/twitter/follow/marcbrgr?style=social)](https://twitter.com/marcbrgr)
+[![Linkedin: mberger75](https://img.shields.io/badge/-mberger75-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mberger75/)](https://www.linkedin.com/in/mberger75/)
+[![GitHub mberger75](https://img.shields.io/github/followers/mberger75?label=follow&style=social)](https://github.com/mberger75)
+[![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
+<br/><br/>
 
 - ✈️ I travel all over the world -> Bulgaria and Turkey for the next three month.
 - 💻 I’m currently jamming on [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
@@ -20,13 +14,6 @@
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me: [Twitter - @marcbrgr](https://twitter.com/marcbrgr)
 - 🎶 I spend almost 12 hours listening to music everyday.
-
-<br/>
-
-[![Twitter: marcbrgr](https://img.shields.io/twitter/follow/marcbrgr?style=social)](https://twitter.com/marcbrgr)
-[![Linkedin: mberger75](https://img.shields.io/badge/-mberger75-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mberger75/)](https://www.linkedin.com/in/mberger75/)
-[![GitHub mberger75](https://img.shields.io/github/followers/mberger75?label=follow&style=social)](https://github.com/mberger75)
-[![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
 
 <br/>
 
