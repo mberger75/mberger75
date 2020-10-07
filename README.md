@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger75&theme=cobalt&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mberger75">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger75&show_icons=true&theme=cobalt&line_height=27" alt="Marc's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger75&show_icons=true&theme=cobalt&line_height=33" alt="Marc's github stats"/>
 </a>
 <br/>
 <a href="https://github.com/mberger75/RSSFlex">
