@@ -13,13 +13,13 @@
 </a>
 <br/>
 
-- 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com).
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
+- ✈️ I travel all over the world -> Bulgaria and Turkey for the next three month.
+- 💻 I’m currently jamming on [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- 🐍 I’m currently learning Python.
+- 🆘 I’m looking for help with RSSFlex development.
 - 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me: [Twitter - @marcbrgr](https://twitter.com/marcbrgr) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- 📫 How to reach me: [Twitter - @marcbrgr](https://twitter.com/marcbrgr)
+- 🎶 I spend almost 12 hours listening to music everyday.
 
 <br/>
 
