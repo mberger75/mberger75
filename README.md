@@ -28,15 +28,15 @@
 </div>
 <br/><br/>
 <a href="https://github.com/mberger75">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger75&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger75&theme=cobalt&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mberger75">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger75&show_icons=true&theme=light&line_height=27" alt="Marc's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger75&show_icons=true&theme=cobalt&line_height=27" alt="Marc's github stats"/>
 </a>
 <br/>
 <a href="https://github.com/mberger75/RSSFlex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mberger75&repo=RSSFlex&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mberger75&repo=RSSFlex&theme=cobalt" />
 </a>
 <a href="https://github.com/mberger75/freesms">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mberger75&repo=freesms&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mberger75&repo=freesms&theme=cobalt" />
 </a>
