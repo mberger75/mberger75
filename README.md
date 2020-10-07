@@ -7,7 +7,7 @@
 [![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
 <br/>
 <br/>
-- ✈️ I travel all over the world -> Bulgaria and Turkey for the next three month.
+- ✈️ I travel all over the world.
 - 💻 I’m currently jamming on [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - 🐍 I’m currently learning Python.
 - 🆘 I’m looking for help with RSSFlex development.
