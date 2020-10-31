@@ -7,13 +7,9 @@
 [![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
 <br/>
 <br/>
-- ✈️ I travel all over the world.
-- 💻 I’m currently jamming on [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - 🐍 I’m currently learning Python.
-- 🆘 I’m looking for help with RSSFlex development.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me: [Twitter - @marcbrgr](https://twitter.com/marcbrgr)
-- 🎶 I spend almost 12 hours listening to music everyday.
 <br/>
 <br/>
 
