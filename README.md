@@ -1,7 +1,6 @@
 ## Hi, I'm [Marc Berger!](https://marcberger.dev) 👋
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mberger75&label=Views&color=ff69b4&style=plastic" alt="mberger75" /></p>
 
-[![Twitter: marcbrgr](https://img.shields.io/twitter/follow/marcbrgr?style=social)](https://twitter.com/marcbrgr)
 [![Linkedin: mberger75](https://img.shields.io/badge/-mberger75-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mberger75/)](https://www.linkedin.com/in/mberger75/)
 [![GitHub mberger75](https://img.shields.io/github/followers/mberger75?label=follow&style=social)](https://github.com/mberger75)
 [![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
