@@ -7,9 +7,9 @@
 [![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
 <br/>
 <br/>
-- 🐍 I’m currently learning Python.
-- 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me: [Twitter - @marcbrgr](https://twitter.com/marcbrgr)
+- 🚀 Open to work!
+- 👩‍💻 JS / TS / React / Next.js / Node.js ...
+- 📫 You can reach me: [Linkedin - @marcbparis](https://www.linkedin.com/in/marcbparis/)
 <br/>
 <br/>
 
