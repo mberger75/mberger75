@@ -8,7 +8,7 @@
 <br/>
 <br/>
 - 🚀 Open to work!
-- 👩‍💻 JS / TS / React / Next.js / Node.js ...
+- 👩‍💻 Web agency? Start-up? Scale-up? Tell me about your project!
 - 📫 You can reach me: [Linkedin - @marcbparis](https://www.linkedin.com/in/marcbparis/)
 <br/>
 <br/>
@@ -22,17 +22,3 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
 </div>
-<br/><br/>
-<a href="https://github.com/mberger75">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberger75&theme=cobalt&hide_langs_below=1" />
-</a>
-<a href="https://github.com/mberger75">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mberger75&show_icons=true&theme=cobalt&line_height=33" alt="Marc's github stats"/>
-</a>
-<br/>
-<a href="https://github.com/mberger75/RSSFlex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mberger75&repo=RSSFlex&theme=cobalt" />
-</a>
-<a href="https://github.com/mberger75/freesms">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mberger75&repo=freesms&theme=cobalt" />
-</a>
