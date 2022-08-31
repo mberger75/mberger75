@@ -4,6 +4,7 @@
 [![Linkedin: marcbparis](https://img.shields.io/badge/-mberger75-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcbparis/)](https://www.linkedin.com/in/marcbparis/)
 [![GitHub mberger75](https://img.shields.io/github/followers/mberger75?label=follow&style=social)](https://github.com/mberger75)
 [![website](https://img.shields.io/badge/Website-marcberger.dev-2648ff?style=flat-square&logo=google-chrome)](https://marcberger.dev/)
+<a href="https://stackoverflow.com/users/9752693/marc-berger"><img src="https://stackoverflow.com/users/flair/9752693.png" width="208" height="58" alt="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br/>
 <br/>
 - 🚀 Open to work!
