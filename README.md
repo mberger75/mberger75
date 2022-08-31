@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://stackoverflow.com/users/9752693/marc-berger?theme=dark"><img src="https://stackoverflow.com/users/flair/9752693.png" width="208" height="58" alt="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/9752693/marc-berger"><img src="https://stackoverflow.com/users/flair/9752693.png?theme=dark" width="208" height="58" alt="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br/>
 <br/>
 - 🚀 Open to work!
