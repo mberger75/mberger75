@@ -10,8 +10,6 @@
 <a href="https://stackoverflow.com/users/9752693/marc-berger"><img src="https://stackoverflow.com/users/flair/9752693.png?theme=dark" width="208" height="58" alt="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Berger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br/>
 <br/>
-- 🚀 Open to work!
-- 👩‍💻 Web agency? Start-up? Scale-up? Tell me about your project!
 - 📫 You can reach me: [Linkedin - @marcbparis](https://www.linkedin.com/in/marcbparis/)
 <br/>
 <br/>
